@@ -17,7 +17,7 @@ If you have an idea for an awesome new level, please let us know!
 
 تم بحمد لله تعالي الانتهاء من [Bandit](https://overthewire.org/wargames/bandit/)
 
-ثم الانتقال الي [Natas](https://overthewire.org/wargames/natas/)
+ثم الانتقال الي [Natas](https://overthewire.org/wargames/natas/) <mark style="background: #BBFABBA6;">ان شاء الله </mark>
 
 
 
